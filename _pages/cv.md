@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf)
+
+<!-- Education
 ======
 * B.S. in Mathematics, University of Illinois Urbana Champaign, 2020
 * M.S. in Computer Science, New York University, 2022
@@ -33,7 +35,7 @@ for quality estimation during Vo-IP.
     * Designed and developed both simulators to re-create quality degradation in videos and audios for dataset and
 survey launched on AWS and LiveSensus website.
     * Collaborated with four other founders, Professor Sanjay Patel and a leading live streaming company, five founders
-selected from 40 students under \textit{Alchemy Foundry} at UIUC \textit{Coordinated Science Laboratory(CSL)}.
+selected from 40 students under \textit{Alchemy Foundry} at UIUC \textit{Coordinated Science Laboratory(CSL)}. -->
 
   
 <!-- Skills
@@ -63,8 +65,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Academic Service
+<!-- Academic Service
 ======
 * Reviewer of *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023
 * Reviewer of *The AAAI Conference on Artificial Intelligence (AAAI)*, 2023
-* Reviewer of *International Conference on Machine Learning (ICML)*, 2022
+* Reviewer of *International Conference on Machine Learning (ICML)*, 2022 -->
