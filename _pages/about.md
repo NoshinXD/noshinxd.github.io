@@ -14,6 +14,8 @@ My main research interest is to develop improved representation learning methods
 
 I am always looking for research collaborations on the research topics I mentioned above. If you have any potential oppotunities, please don't hesitate to reach out me though email!
 
+<span style="color:red">I am actively looking for PhD oppotunities in the cycle of Fall 2023.</span>
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -59,3 +61,6 @@ News
 - [May 2021] Release our LiveSensus Crowdsourcing a Subjective Audio Dataset \[[Link](https://livesensus.com/Blog/Crowd-sourcing-a-subjective-audio-dataset.html)\]. Feel free to ask our group member if you have any questions.
 - [Sept 2020] Join NYU Courant Institute of Mathematical Science as a Graduate Student
 - [Jan 2020] Start LiveSensus with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL)
+  
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=m&d=Itoj5gX6LtmhsR5PEC5uQkeN08ZyMnSJSe7hPwC0OYg&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
