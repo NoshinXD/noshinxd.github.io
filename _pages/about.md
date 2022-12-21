@@ -10,9 +10,9 @@ redirect_from:
 
 I currently work as a Embedded Software Engineer at Austin, TX. Previously, I received my M.S. in *Computer Science from Courant Institute of Mathematical Sciences, New York University (NYU)* and my B.S. in Mathematics from *University of Illinois Urbana-Champaign*, with minors in Computer Science and Electrical and Computer Engineering.
 
-My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I wish to push the boundaries of deep models by learning better representations at scale. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to **Bayesian Machine Learning, Self-Supervised Learning, Fairness/Robustness problems in Deep Learning models and AI+X**.
+My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I wish to push the boundaries of deep models by learning better representations at scale. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to 1). Bayesian Machine Learning, 2). Self-Supervised Learning, 3). Fairness/Robustness problems and 4). AI+X in Deep Learning models.
 
-I am always looking for collaborations on the research topics I mentioned above. If you have any potential oppotunities, please don't hesitate to reach out me though email!
+I am always looking for research collaborations on the research topics I mentioned above. If you have any potential oppotunities, please don't hesitate to reach out me though email!
 
 <!-- A data-driven personal website
 ======
@@ -55,4 +55,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 News
 ------
-- [Sept 2020] Joined Courant Institute as a Graduate Student.
+- [July 2022] Work in [Cirrus Logic](https://www.cirrus.com/) as an Embbedded Software Engineer
+- [May 2021] Release our LiveSensus Crowdsourcing a Subjective Audio Dataset \[[Link](https://livesensus.com/Blog/Crowd-sourcing-a-subjective-audio-dataset.html)\]. Feel free to ask our group member if you have any questions.
+- [Sept 2020] Join NYU Courant Institute of Mathematical Science as a Graduate Student
+- [Jan 2020] Start LiveSensus with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL)
