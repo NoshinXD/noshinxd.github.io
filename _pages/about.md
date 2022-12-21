@@ -14,7 +14,7 @@ My main research interest is to develop improved representation learning methods
 
 I am always looking for research collaborations on the research topics I mentioned above. If you have any potential oppotunities, please don't hesitate to reach out me though email!
 
-<span style="color:red">I am actively looking for PhD oppotunities in the cycle of Fall 2023.</span>
+<span style="color:red">Note: I am actively looking for PhD oppotunities in the cycle of Fall 2023.</span>
 
 <!-- A data-driven personal website
 ======
