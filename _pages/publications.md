@@ -23,12 +23,17 @@ author_profile: true
    * <u>Wenqian Ye*</u>, Yunsheng Ma*, Xu Cao
    * AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making (UDM-AAAI), 2023.
 
-3. **Combining FCA-Map with Representation Learning for Aligning Large Biomedical Ontologies** \[[paper](https://ceur-ws.org/Vol-3063/om2021_poster1.pdf)\]
+3. **Bird’s-Eye-View Traffic Scene Representation Learning via Channel Masked Autoencoder** \[paper\]
+
+   * Xu Cao, Kun Tang, Zhipeng Cao, Tong Zhou, Erlong Li, Ao Liu, Shengtao Zou, Shuqi Mei, <u>Wenqian Ye*</u>, Yunsheng Ma, Elena Sizikova, Chao Zheng.
+   * Under review at The IEEE International Conference on Robotics and Automation (ICRA), 2023.
+
+4. **Combining FCA-Map with Representation Learning for Aligning Large Biomedical Ontologies** \[[paper](https://ceur-ws.org/Vol-3063/om2021_poster1.pdf)\]
 
    * Guoxuan Li, Songmao Zhang, Jiayi Wei, <u>Wenqian Ye</u>
    * International Semantic Web Conference, Workshop on Ontology Matching (ISWC), 2021.
 
-4. **Adversarial Examples Generation for Reducing Implicit Gender Bias in Pre-trained Models** \[[paper](https://arxiv.org/abs/2110.01094)\]
+5. **Adversarial Examples Generation for Reducing Implicit Gender Bias in Pre-trained Models** \[[paper](https://arxiv.org/abs/2110.01094)\]
 
    * <u>Wenqian Ye</u>, Fei Xu, Yaojia Huang, Cassie Huang, Ji A
    * ArXiv, 2021.
