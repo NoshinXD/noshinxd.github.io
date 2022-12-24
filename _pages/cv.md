@@ -11,8 +11,8 @@ redirect_from:
 
 [Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf)
 
-Publications:
-
+Publications
+------
 
 (* indicates equal contribution. )
 
@@ -28,7 +28,7 @@ Publications:
 
 3. **Bird’s-Eye-View Traffic Scene Representation Learning via Channel Masked Autoencoder** \[paper\]
 
-   * Xu Cao, Kun Tang, Zhipeng Cao, Tong Zhou, Erlong Li, Ao Liu, Shengtao Zou, Shuqi Mei, <u>Wenqian Ye*</u>, Yunsheng Ma, Elena Sizikova, Chao Zheng.
+   * Xu Cao, Kun Tang, Zhipeng Cao, Tong Zhou, Erlong Li, Ao Liu, Shengtao Zou, Shuqi Mei, <u>Wenqian Ye</u>, Yunsheng Ma, Elena Sizikova, Chao Zheng.
    * Under review at The IEEE International Conference on Robotics and Automation (ICRA), 2023.
 
 4. **Combining FCA-Map with Representation Learning for Aligning Large Biomedical Ontologies** \[[paper](https://ceur-ws.org/Vol-3063/om2021_poster1.pdf)\]
