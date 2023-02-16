@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %} -->
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- {% endif %} -->
 
 {% include base_path %}
 
@@ -16,7 +16,7 @@ author_profile: true
 1. **ViTASD: Robust ViT Baselines for Autism Spectrum Disorder Facial Detection** \[[paper](https://arxiv.org/abs/2210.16943)\]
 
    * Xu Cao*, <u>Wenqian Ye*</u>, Elena Sizikova, Xue Bai, Megan Coffee, Hongwu Zeng, Jianguo Cao 
-   * Under review at IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
+   * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
 
 2. **Uncertainty Estimation in Deterministic Vision Transformer** \[[paper](https://charliezhaoyinpeng.github.io/UDM-AAAI23/ap/)\]
 
@@ -26,7 +26,7 @@ author_profile: true
 3. **Bird’s-Eye-View Traffic Scene Representation Learning via Channel Masked Autoencoder** \[paper\]
 
    * Xu Cao, Kun Tang, Zhipeng Cao, Tong Zhou, Erlong Li, Ao Liu, Shengtao Zou, Shuqi Mei, <u>Wenqian Ye*</u>, Yunsheng Ma, Elena Sizikova, Chao Zheng.
-   * Under review at The IEEE International Conference on Robotics and Automation (ICRA), 2023.
+   <!-- * Under review at The IEEE International Conference on Robotics and Automation (ICRA), 2023. -->
 
 4. **Combining FCA-Map with Representation Learning for Aligning Large Biomedical Ontologies** \[[paper](https://ceur-ws.org/Vol-3063/om2021_poster1.pdf)\]
 
