@@ -58,7 +58,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 News
 ------
 
-- [Feb 2022] Our work [ViTASD](https://arxiv.org/abs/2210.16943) is accepted at 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023).
+- [Feb 2023] Our work [ViTASD](https://arxiv.org/abs/2210.16943) is accepted at 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023).
 - [July 2022] Work in [Cirrus Logic](https://www.cirrus.com/) as a Software Engineer.
 - [June 2021] Work as a Research Assistant at Chinese Academy of Science (CAS).
 - [May 2021] Release our LiveSensus Crowdsourcing a Subjective Audio Dataset \[[Link](https://livesensus.com/Blog/Crowd-sourcing-a-subjective-audio-dataset.html)\]. Feel free to ask our group members if you have any questions or ideas.
