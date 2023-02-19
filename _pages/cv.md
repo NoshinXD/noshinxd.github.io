@@ -19,7 +19,7 @@ Publications
 1. **Masked Domain Adaptation (MDA): Lipschitz Regularized Masked Self-supervised Learning for Chest X-ray Domain Adaptation** \[[paper]()\]
 
    * Xu Cao*, <u>Wenqian Ye*</u>, Elena Sizikova, Kenny Moise, Megan Coffee
-   * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
+   * Under review at The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
   
 2. **ViTASD: Robust ViT Baselines for Autism Spectrum Disorder Facial Detection** \[[paper](https://arxiv.org/abs/2210.16943)\]
 
