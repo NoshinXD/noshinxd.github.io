@@ -19,7 +19,7 @@ author_profile: true
    * Xu Cao*, <u>Wenqian Ye*</u>, Elena Sizikova, Kenny Moise, Megan Coffee
    * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
 
-3. **Uncertainty Estimation in Deterministic Vision Transformer** \[[paper](https://charliezhaoyinpeng.github.io/UDM-AAAI23/ap/)\]
+3. **Uncertainty Estimation in Deterministic Vision Transformer** \[[paper](https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/3/CameraReady/UDM_AAAI_23_camera_ready.pdf)\]
 
    * <u>Wenqian Ye*</u>, Yunsheng Ma*, Xu Cao
    * AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making (UDM-AAAI), 2023.
