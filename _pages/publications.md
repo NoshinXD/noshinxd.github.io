@@ -13,27 +13,28 @@ author_profile: true
 
 (* indicates equal contribution. )
 
-1. **ViTASD: Robust ViT Baselines for Autism Spectrum Disorder Facial Detection** \[[paper](https://arxiv.org/abs/2210.16943)\]
+1. 
+2. **Masked Domain Adaptation (MDA): Lipschitz Regularized Masked Self-supervised Learning for Chest X-ray Domain Adaptation** 
 
-   * Xu Cao*, <u>Wenqian Ye*</u>, Elena Sizikova, Xue Bai, Megan Coffee, Hongwu Zeng, Jianguo Cao 
+   * Xu Cao*, <u>Wenqian Ye*</u>, Elena Sizikova, Kenny Moise, Megan Coffee
    * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
 
-2. **Uncertainty Estimation in Deterministic Vision Transformer** \[[paper](https://charliezhaoyinpeng.github.io/UDM-AAAI23/ap/)\]
+3. **Uncertainty Estimation in Deterministic Vision Transformer** \[[paper](https://charliezhaoyinpeng.github.io/UDM-AAAI23/ap/)\]
 
    * <u>Wenqian Ye*</u>, Yunsheng Ma*, Xu Cao
    * AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making (UDM-AAAI), 2023.
-
-3. **Bird’s-Eye-View Traffic Scene Representation Learning via Channel Masked Autoencoder** \[paper\]
+<!-- 
+1. **Bird’s-Eye-View Traffic Scene Representation Learning via Channel Masked Autoencoder** \[paper\]
 
    * Xu Cao, Kun Tang, Zhipeng Cao, Tong Zhou, Erlong Li, Ao Liu, Shengtao Zou, Shuqi Mei, <u>Wenqian Ye*</u>, Yunsheng Ma, Elena Sizikova, Chao Zheng.
-   <!-- * Under review at The IEEE International Conference on Robotics and Automation (ICRA), 2023. -->
+   * Under review at The IEEE International Conference on Robotics and Automation (ICRA), 2023. -->
 
-4. **Combining FCA-Map with Representation Learning for Aligning Large Biomedical Ontologies** \[[paper](https://ceur-ws.org/Vol-3063/om2021_poster1.pdf)\]
+2. **Combining FCA-Map with Representation Learning for Aligning Large Biomedical Ontologies** \[[paper](https://ceur-ws.org/Vol-3063/om2021_poster1.pdf)\]
 
    * Guoxuan Li, Songmao Zhang, Jiayi Wei, <u>Wenqian Ye</u>
    * International Semantic Web Conference, Workshop on Ontology Matching (ISWC), 2021.
 
-5. **Adversarial Examples Generation for Reducing Implicit Gender Bias in Pre-trained Models** \[[paper](https://arxiv.org/abs/2110.01094)\]
+3. **Adversarial Examples Generation for Reducing Implicit Gender Bias in Pre-trained Models** \[[paper](https://arxiv.org/abs/2110.01094)\]
 
    * <u>Wenqian Ye</u>, Fei Xu, Yaojia Huang, Cassie Huang, Ji A
    * ArXiv, 2021.

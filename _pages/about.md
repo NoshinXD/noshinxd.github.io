@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I currently work as a Embedded Software Engineer at Austin, TX. Previously, I received my M.S. in *Computer Science from Courant Institute of Mathematical Sciences, New York University (NYU)* and my B.S. in Mathematics from *University of Illinois Urbana-Champaign*, with minors in Computer Science and Electrical and Computer Engineering.
+I currently work as a Software Engineer at Austin, TX. Previously, I received my M.S. in *Computer Science from Courant Institute of Mathematical Sciences, New York University (NYU)* and my B.S. in Mathematics from *University of Illinois Urbana-Champaign*, with minors in Computer Science and Electrical and Computer Engineering.
 
-My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I wish to push the boundaries of deep models by learning better representations at scale. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to 1). Bayesian Machine Learning, 2). Self/Semi-Supervised Learning, 3). Fairness/Robustness in Machine Learning.
+My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I wish to push the boundaries of deep models by learning better representations at scale. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to 1). Bayesian Machine Learning, 2). Self/Semi-Supervised Learning, 3). Fairness/Robustness in Machine Learning, 4). AI for Social Good.
 
 I am always looking for research collaborations on the research topics I mentioned above. If you have any potential oppotunities, please don't hesitate to reach out me though email!
 
@@ -59,11 +59,11 @@ News
 ------
 
 - [Feb 2022] Our work [ViTASD](https://arxiv.org/abs/2210.16943) is accepted at 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023).
-- [July 2022] Working in [Cirrus Logic](https://www.cirrus.com/) as an Embbedded Software Engineer
-- [June 2021] Working as a Research Intern at Chinese Academy of Science (CAS).
-- [May 2021] Releasing our LiveSensus Crowdsourcing a Subjective Audio Dataset \[[Link](https://livesensus.com/Blog/Crowd-sourcing-a-subjective-audio-dataset.html)\]. Feel free to ask our group member if you have any questions.
-- [Sept 2020] Joining NYU Courant Institute of Mathematical Science as a Graduate Student
-- [Jan 2020] Starting LiveSensus with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL)
+- [July 2022] Work in [Cirrus Logic](https://www.cirrus.com/) as a Software Engineer.
+- [June 2021] Work as a Research Assistant at Chinese Academy of Science (CAS).
+- [May 2021] Release our LiveSensus Crowdsourcing a Subjective Audio Dataset \[[Link](https://livesensus.com/Blog/Crowd-sourcing-a-subjective-audio-dataset.html)\]. Feel free to ask our group members if you have any questions or ideas.
+- [Sept 2020] Join NYU Courant Institute of Mathematical Science as a Graduate Student
+- [Jan 2020] Launch [LiveSensus](https://livesensus.com/) with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL)
   
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=m&d=Itoj5gX6LtmhsR5PEC5uQkeN08ZyMnSJSe7hPwC0OYg&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=t&d=Itoj5gX6LtmhsR5PEC5uQkeN08ZyMnSJSe7hPwC0OYg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
