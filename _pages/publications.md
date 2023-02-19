@@ -13,7 +13,7 @@ author_profile: true
 
 (* indicates equal contribution. )
 
-1. 
+   
 2. **Masked Domain Adaptation (MDA): Lipschitz Regularized Masked Self-supervised Learning for Chest X-ray Domain Adaptation** 
 
    * Xu Cao*, <u>Wenqian Ye*</u>, Elena Sizikova, Kenny Moise, Megan Coffee
