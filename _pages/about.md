@@ -66,4 +66,4 @@ News
 - [Jan 2020] Launch [LiveSensus](https://livesensus.com/) with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL)
   
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=t&d=Itoj5gX6LtmhsR5PEC5uQkeN08ZyMnSJSe7hPwC0OYg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Itoj5gX6LtmhsR5PEC5uQkeN08ZyMnSJSe7hPwC0OYg'></script>
