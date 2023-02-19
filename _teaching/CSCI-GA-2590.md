@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "New York, NY"
 ---
 
-[Course Website](https://hhexiy.github.io/nlp/2021/index.html)
+[Course Website](https://nyu-cs2590.github.io/fall2021/)
 
 - Graded the written assignments, exams and final projects. Set up the autograder for code assignments.
 - Answered questions and provide guidelines for students on the online forum CampusWire
