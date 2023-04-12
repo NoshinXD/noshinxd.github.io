@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wenqian Ye"
   avatar           : "selfie.jpeg"
-  bio              : "Machine Learning Researcher and Software Engineer"
+  bio              : "Machine Learning Researcher"
   location         : "Austin, TX"
   employer         : 
   pubmed           : 
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/wenqian-yeh/"
+  orcid            : "https://orcid.org/0000-0002-6069-5153"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

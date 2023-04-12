@@ -11,17 +11,19 @@ redirect_from:
 
 [Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf)
 
-Publications
 ------
 
-(* indicates equal contribution. )
+<!-- Publications
+------
 
+(* indicates equal contribution. ) -->
+<!-- 
 1. **Masked Domain Adaptation (MDA): Lipschitz Regularized Masked Self-supervised Learning for Chest X-ray Domain Adaptation** \[[paper]()\]
 
    * Xu Cao*, <u>Wenqian Ye*</u>, Elena Sizikova, Kenny Moise, Megan Coffee
    * Under review at The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
-  
-2. **ViTASD: Robust ViT Baselines for Autism Spectrum Disorder Facial Detection** \[[paper](https://arxiv.org/abs/2210.16943)\]
+   -->
+<!-- 2. **ViTASD: Robust ViT Baselines for Autism Spectrum Disorder Facial Detection** \[[paper](https://arxiv.org/abs/2210.16943)\]
 
    * Xu Cao*, <u>Wenqian Ye*</u>, Elena Sizikova, Xue Bai, Megan Coffee, Hongwu Zeng, Jianguo Cao
    * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
@@ -44,7 +46,7 @@ Publications
 6. **Adversarial Examples Generation for Reducing Implicit Gender Bias in Pre-trained Models** \[[paper](https://arxiv.org/abs/2110.01094)\]
 
    * <u>Wenqian Ye</u>, Fei Xu, Yaojia Huang, Cassie Huang, Ji A
-   * ArXiv, 2021.
+   * ArXiv, 2021. -->
 
 <!-- Education
 ======
