@@ -57,8 +57,9 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 News
 ------
-- **[Apr 2023]** In the fall of 2023, I will enroll as a Ph.D. student at UVA under the supervision of [Prof. Yen-Ling Kuo](https://yenlingkuo.com/).
-- **[Feb 2023]** Our work [ViTASD](https://arxiv.org/abs/2210.16943) is accepted at 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023).
+- **[May 2023]** Have one paper accepted at UAI 2023! [[paper](), [code]()]
+- **[Apr 2023]** In Fall 2023, I will enroll as a Ph.D. student at UVA under the supervision of [Prof. Yen-Ling Kuo](https://yenlingkuo.com/). 
+- **[Feb 2023]** Have one paper acceppted at ICASSP 2023! [[paper](https://arxiv.org/abs/2210.16943), [code](https://github.com/IrohXu/ViTASD)]
 - **[July 2022]** Work in [Cirrus Logic](https://www.cirrus.com/) as a Software Engineer.
 - **[Sept 2021]** Work as Teaching Assistant of the Grauduate NLP Course at NYU Courant.
 - **[June 2021]** Work as Research Assistant at Chinese Academy of Science (CAS).
