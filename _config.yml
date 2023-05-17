@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wenqian Ye"
   avatar           : "selfie.jpeg"
-  bio              : "CS PhD student and Machine Learning Researcher."
-  location         : "Austin, TX"
+  bio              : "CS PhD Student and Machine Learning Researcher."
+  location         : "US"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=W8a3VQEAAAAJ&hl=en"
-  email            : "wy2029@nyu.edu"
+  email            : "wenqian@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -59,11 +59,11 @@ News
 ------
 - **[May 2023]** Have one paper accepted at UAI 2023! [[paper](), [code]()]
 - **[Apr 2023]** In Fall 2023, I will enroll as a Ph.D. student at UVA under the supervision of [Prof. Yen-Ling Kuo](https://yenlingkuo.com/). 
-- **[Feb 2023]** Have one paper acceppted at ICASSP 2023! [[paper](https://arxiv.org/abs/2210.16943), [code](https://github.com/IrohXu/ViTASD)]
+- **[Feb 2023]** Have one paper accepted at ICASSP 2023! [[paper](https://arxiv.org/abs/2210.16943), [code](https://github.com/IrohXu/ViTASD)]
 - **[July 2022]** Work in [Cirrus Logic](https://www.cirrus.com/) as a Software Engineer.
 - **[Sept 2021]** Work as Teaching Assistant of the Grauduate NLP Course at NYU Courant.
 - **[June 2021]** Work as Research Assistant at Chinese Academy of Science (CAS).
-- **[May 2021]** Release our LiveSensus Crowdsourcing a Subjective Audio Dataset \[[Link](https://livesensus.com/Blog/Crowd-sourcing-a-subjective-audio-dataset.html)\].
+- **[May 2021]** Release our LiveSensus Crowdsourcing a Subjective Audio Dataset \[[link](https://livesensus.com/Blog/Crowd-sourcing-a-subjective-audio-dataset.html)\].
 - **[Sept 2020]** Join NYU Courant as a master student.
 - **[Jan 2020]** Launch [LiveSensus](https://livesensus.com/) with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL), supervised by [Prof. Sanjay Patel](https://sjp.ece.illinois.edu/).
   
