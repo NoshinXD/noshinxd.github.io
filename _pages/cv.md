@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+------
+
 [Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf)
 
-------
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 <!-- Publications
 ------
