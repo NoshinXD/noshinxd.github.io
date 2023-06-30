@@ -10,7 +10,7 @@ redirect_from:
 
 I am an incoming Ph.D. student in Computer Science at [University of Virginia](https://www.virginia.edu/). Previously, I received my M.S. in Computer Science from [Courant Institute of Mathematical Sciences](https://cs.nyu.edu/), [New York University](https://www.nyu.edu/) and my B.S. in Mathematics from [University of Illinois Urbana-Champaign](https://illinois.edu/), with minors in Computer Science and Electrical and Computer Engineering.
 
-My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I wish to push the boundaries of deep models by learning better representations at scale. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to **1). Bayesian Machine Learning, 2). Fairness/Robustness in Machine Learning, 3). AI for Social Good (Healthcare)**.
+<!-- My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I wish to push the boundaries of deep models by learning better representations at scale. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to **1). Bayesian Machine Learning, 2). Fairness/Robustness in Machine Learning, 3). AI for Social Good (Healthcare)**. -->
 
 I am always on the lookout for exciting research collaborations that align with my research interests. If you have any potential opportunities or ideas, please don't hesitate to contact me via email.
 
@@ -55,7 +55,7 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-News
+<!-- News
 ------
 - **[May 2023]** Have one paper accepted at UAI 2023! [[paper](), [code]()]
 - **[Apr 2023]** In Fall 2023, I will enroll as a Ph.D. student at UVA under the supervision of [Prof. Yen-Ling Kuo](https://yenlingkuo.com/). 
@@ -66,6 +66,6 @@ News
 - **[May 2021]** Release our LiveSensus Crowdsourcing a Subjective Audio Dataset \[[link](https://livesensus.com/Blog/Crowd-sourcing-a-subjective-audio-dataset.html)\].
 - **[Sept 2020]** Join NYU Courant as a master student.
 - **[Jan 2020]** Launch [LiveSensus](https://livesensus.com/) with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL), supervised by [Prof. Sanjay Patel](https://sjp.ece.illinois.edu/).
-  
+   -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Itoj5gX6LtmhsR5PEC5uQkeN08ZyMnSJSe7hPwC0OYg'></script>
