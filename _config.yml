@@ -86,7 +86,7 @@ author:
   location         : "US"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=W8a3VQEAAAAJ&hl=en"
+  googlescholar    : 
   email            : "wenqian@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/wenqian-yeh/"
-  orcid            : "https://orcid.org/0000-0002-6069-5153"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
