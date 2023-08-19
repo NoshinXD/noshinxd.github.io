@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-<!-- [Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf) -->
+[Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf)
 
 
 <!-- Publications

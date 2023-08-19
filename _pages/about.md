@@ -12,7 +12,7 @@ I am an incoming Ph.D. student in Computer Science at [University of Virginia](h
 
 <!-- My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I wish to push the boundaries of deep models by learning better representations at scale. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to **1). Bayesian Machine Learning, 2). Fairness/Robustness in Machine Learning, 3). AI for Social Good (Healthcare)**. -->
 
-I am always on the lookout for exciting research collaborations that align with my research interests. If you have any potential opportunities or ideas, please don't hesitate to contact me via email.
+I am always on the lookout for exciting research collaborations that align with my research interests. If you have any potential opportunities or ideas, feel free to contact me via email.
 
 <!-- <span style="color:red">Note: I am actively looking for PhD oppotunities in the cycle of Fall 2023.</span> -->
 
@@ -55,17 +55,14 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-<!-- News
+News
 ------
-- **[May 2023]** Have one paper accepted at UAI 2023! [[paper](), [code]()]
-- **[Apr 2023]** In Fall 2023, I will enroll as a Ph.D. student at UVA under the supervision of [Prof. Yen-Ling Kuo](https://yenlingkuo.com/). 
-- **[Feb 2023]** Have one paper accepted at ICASSP 2023! [[paper](https://arxiv.org/abs/2210.16943), [code](https://github.com/IrohXu/ViTASD)]
-- **[July 2022]** Work in [Cirrus Logic](https://www.cirrus.com/) as a Software Engineer.
-- **[Sept 2021]** Work as Teaching Assistant of the Grauduate NLP Course at NYU Courant.
-- **[June 2021]** Work as Research Assistant at Chinese Academy of Science (CAS).
-- **[May 2021]** Release our LiveSensus Crowdsourcing a Subjective Audio Dataset \[[link](https://livesensus.com/Blog/Crowd-sourcing-a-subjective-audio-dataset.html)\].
+- **[Aug 2023]** Join UVA as a CS PhD student, supervised by [Prof. Yen-Ling Kuo](https://yenlingkuo.com/). 
+- **[May 2023]** Have one paper accepted at UAI 2023. [[paper](https://arxiv.org/abs/2306.06849), [code](https://github.com/PediaMedAI/LRFormer)]
+- **[Feb 2023]** Have one paper accepted at ICASSP 2023. [[paper](https://arxiv.org/abs/2210.16943), [code](https://github.com/IrohXu/ViTASD)]
+- **[Sept 2021]** Work as Teaching Assistant of the Grauduate NLP Course at NYU Courant under [Prof. He He](https://hhexiy.github.io/).
 - **[Sept 2020]** Join NYU Courant as a master student.
 - **[Jan 2020]** Launch [LiveSensus](https://livesensus.com/) with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL), supervised by [Prof. Sanjay Patel](https://sjp.ece.illinois.edu/).
-   -->
+  
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Itoj5gX6LtmhsR5PEC5uQkeN08ZyMnSJSe7hPwC0OYg'></script>
