@@ -86,7 +86,7 @@ author:
   location         : "US"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=W8a3VQEAAAAJ&hl=en"
   email            : "wenqian@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
