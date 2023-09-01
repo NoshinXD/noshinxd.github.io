@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student in Computer Science at [University of Virginia](https://www.virginia.edu/). Previously, I received my M.S. in Computer Science from [Courant Institute of Mathematical Sciences](https://cs.nyu.edu/), [New York University](https://www.nyu.edu/) and my B.S. in Mathematics from [University of Illinois Urbana-Champaign](https://illinois.edu/), with minors in Computer Science and Electrical and Computer Engineering.
+I am a Ph.D. student in Computer Science at [University of Virginia](https://www.virginia.edu/). Previously, I received my M.S. in Computer Science from [Courant Institute of Mathematical Sciences](https://cs.nyu.edu/), [New York University](https://www.nyu.edu/) and my B.S. in Mathematics from [University of Illinois Urbana-Champaign](https://illinois.edu/), with minors in Computer Science and Electrical and Computer Engineering.
 
 <!-- My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I wish to push the boundaries of deep models by learning better representations at scale. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to **1). Bayesian Machine Learning, 2). Fairness/Robustness in Machine Learning, 3). AI for Social Good (Healthcare)**. -->
 
