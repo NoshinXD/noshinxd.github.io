@@ -13,6 +13,7 @@ redirect_from:
 
 [Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf)
 
+*Last update: October 2023*
 
 <!-- Publications
 ------

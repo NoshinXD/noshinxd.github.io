@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at [University of Virginia](https://www.virginia.edu/). Previously, I received my M.S. in Computer Science from [Courant Institute of Mathematical Sciences](https://cs.nyu.edu/), [New York University](https://www.nyu.edu/) and my B.S. in Mathematics from [University of Illinois Urbana-Champaign](https://illinois.edu/), with minors in Computer Science and Electrical and Computer Engineering.
+I am a first year PhD student in Computer Science at [University of Virginia](https://www.virginia.edu/) advised by [Prof. Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang). Previously, I received my M.S. in Computer Science from [Courant Institute of Mathematical Sciences](https://cs.nyu.edu/), [New York University](https://www.nyu.edu/) and my B.S. in Mathematics from [University of Illinois Urbana-Champaign](https://illinois.edu/), with minors in Computer Science and Electrical and Computer Engineering.
 
-<!-- My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I wish to push the boundaries of deep models by learning better representations at scale. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to **1). Bayesian Machine Learning, 2). Fairness/Robustness in Machine Learning, 3). AI for Social Good (Healthcare)**. -->
+My main research interest is to develop improved representation learning methods that have a solid interpretability based on the foundation of machine learning or probabilistic explanation. I am eager to persistently improve my levels of understandings in diverse areas of studies including but not limited to **1). Bayesian Machine Learning, 2). Fairness/Robustness in Machine Learning, 3). AI for Healthcare**.
 
-I am always on the lookout for exciting research collaborations that align with my research interests. If you have any potential opportunities or ideas, feel free to contact me via email.
+I am always on the lookout for research collaborations that align with my research interests. If you have any potential opportunities or ideas, feel free to contact me via email.
 
 <!-- <span style="color:red">Note: I am actively looking for PhD oppotunities in the cycle of Fall 2023.</span> -->
 
@@ -57,11 +57,10 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 News
 ------
-- **[Aug 2023]** Join UVA as a CS PhD student, supervised by [Prof. Yen-Ling Kuo](https://yenlingkuo.com/). 
-- **[May 2023]** Have one paper accepted at UAI 2023. [[paper](https://arxiv.org/abs/2306.06849), [code](https://github.com/PediaMedAI/LRFormer)]
-- **[Feb 2023]** Have one paper accepted at ICASSP 2023. [[paper](https://arxiv.org/abs/2210.16943), [code](https://github.com/IrohXu/ViTASD)]
+- **[Nov 2023]** Co-organize the [1st Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/) at WACV 2024.
+- **[Aug 2023]** Join UVA SEAS as a PhD student.
 - **[Sept 2021]** Work as Teaching Assistant of the Grauduate NLP Course at NYU Courant under [Prof. He He](https://hhexiy.github.io/).
-- **[Sept 2020]** Join NYU Courant as a master student.
+- **[Sept 2020]** Join NYU Courant Institute as a master student.
 - **[Jan 2020]** Launch [LiveSensus](https://livesensus.com/) with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL), supervised by [Prof. Sanjay Patel](https://sjp.ece.illinois.edu/).
   
 
