@@ -15,8 +15,8 @@ redirect_from:
 
 
 
-Education
-======
+**Education**
+
 -  Ph.D, **University of Virginia**, VA, USA, Aug 2023 - May 2028 (expected)
    -  Major: Computer Science
    - Research Area: Machine Learning
