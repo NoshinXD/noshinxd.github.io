@@ -11,11 +11,12 @@ redirect_from:
 
 ------
 
-[Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf)
+[Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf) (*Last update: October 2023*)
 
-*Last update: October 2023*
 
-**Education**
+
+Education
+======
 -  Ph.D, **University of Virginia**, VA, USA, Aug 2023 - May 2028 (expected)
    -  Major: Computer Science
    - Research Area: Machine Learning
