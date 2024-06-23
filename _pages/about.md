@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Computer Science at [University of Virginia](https://www.virginia.edu/), advised by [Prof. Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang). Previously, I received my M.S. in Computer Science from [Courant Institute of Mathematical Sciences](https://cs.nyu.edu/), [New York University](https://www.nyu.edu/) and my B.S. in Mathematics from [University of Illinois Urbana-Champaign](https://illinois.edu/), with minors in Computer Science and Electrical Engineering.
 
-My research interest is to develop interpretable representation learning methods based on the learning theory or probabilistic explanation. I am eager to persistently improve my understanding in diverse areas of study including but not limited to 1). Bayesian Machine Learning, 2). Robustness and Fairness in Machine Learning, 3). AI for Healthcare. 
+My research interest is to develop robust and interpretable machine learning methods. I am eager to persistently improve my understanding in diverse areas of study including but not limited to (1). Robustness, (2). Multimodal Learning, (3). AI for Healthcare, (4). Embodied AI. 
 
 <!-- I am always on the lookout for research collaborations that align with my research interests. If you have any potential opportunities or ideas, feel free to contact me via email. -->
 
@@ -57,11 +57,13 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 News
 ------
-- **[Feb 2024]** Two co-authored papers accepted @ [CVPR 2024](https://cvpr.thecvf.com/)! 🎉
+- **[Jun 2024]** One paper is accepted @ KDD 2024! 🎉
+- **[Apr 2024]** One paper is accepted @ IJCAI 2024! 🎉
+- **[Feb 2024]** Two papers are accepted @ CVPR 2024! 🎉
 - **[Nov 2023]** Co-organize the [1st Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/) @ [WACV 2024](https://wacv2024.thecvf.com/). 🎉
 - **[Aug 2023]** Join UVA SEAS as a PhD student.
-- **[May 2023]** One paper accepted @ [UAI 2023](https://www.auai.org/uai2023/). 🎉
-- **[Sept 2021]** Work as Teaching Assistant of the Graduate NLP Course at NYU Courant under [Prof. He He](https://hhexiy.github.io/).
+- **[May 2023]** One paper is accepted @ UAI 2023! 🎉
+- **[Sept 2021]** Worke as Teaching Assistant of the Graduate NLP Course at NYU Courant under [Prof. He He](https://hhexiy.github.io/).
 - **[Sept 2020]** Join NYU Courant Institute as a master's student.
 - **[Jan 2020]** Launch [LiveSensus](https://livesensus.com/) with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL), supervised by [Prof. Sanjay Patel](https://sjp.ece.illinois.edu/).
   
