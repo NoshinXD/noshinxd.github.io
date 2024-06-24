@@ -57,8 +57,8 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 News
 ------
-- **[Jun 2024]** One paper is accepted @ KDD 2024! 🎉
 - **[Jun 2024]** Our survey paper [Spurious Correlations in Machine Learning: A Survey](https://arxiv.org/abs/2402.12715) is released and accepted at [ICML DMLR Workshop](https://dmlr.ai/cfp-icml24/).
+- **[May 2024]** One paper is accepted @ KDD 2024! 🎉
 - **[Apr 2024]** One paper is accepted @ IJCAI 2024! 🎉
 - **[Feb 2024]** Two papers are accepted @ CVPR 2024! 🎉
 - **[Nov 2023]** Co-organize the [1st Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/) @ [WACV 2024](https://wacv2024.thecvf.com/). 🎉
