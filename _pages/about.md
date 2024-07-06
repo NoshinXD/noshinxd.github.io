@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Computer Science at [University of Virginia](https://www.virginia.edu/), advised by [Prof. Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang). Previously, I received my M.S. in Computer Science from [Courant Institute of Mathematical Sciences](https://cs.nyu.edu/), [New York University](https://www.nyu.edu/) and my B.S. in Mathematics from [University of Illinois Urbana-Champaign](https://illinois.edu/), with minors in Computer Science and Electrical Engineering.
 
-My research interest is to develop robust and interpretable machine learning methods. I am eager to persistently improve my understanding in diverse areas of study including but not limited to (1). Robustness, (2). Multimodal Learning, (3). AI for Healthcare, (4). Embodied AI. 
+My research interest is to develop robust and interpretable machine learning methods. I am eager to persistently improve my understanding in diverse areas of study including but not limited to (1). *Robustness*, (2). *Multimodal Learning*, (3). *AI for Healthcare*, (4). *Embodied AI*. 
 
 <!-- I am always on the lookout for research collaborations that align with my research interests. If you have any potential opportunities or ideas, feel free to contact me via email. -->
 
@@ -57,6 +57,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 News
 ------
+- **[July 2024]** One paper is accepted @ ECCV 2024! 🎉
 - **[Jun 2024]** Our survey paper [Spurious Correlations in Machine Learning: A Survey](https://arxiv.org/abs/2402.12715) is released and accepted at [ICML DMLR Workshop](https://dmlr.ai/cfp-icml24/).
 - **[May 2024]** One paper is accepted @ KDD 2024! 🎉
 - **[Apr 2024]** One paper is accepted @ IJCAI 2024! 🎉
