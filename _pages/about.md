@@ -65,7 +65,7 @@ News
 - **[Nov 2023]** Co-organize the [1st Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/) @ [WACV 2024](https://wacv2024.thecvf.com/). 🎉
 - **[Aug 2023]** Join UVA SEAS as a PhD student.
 - **[May 2023]** One paper is accepted @ UAI 2023! 🎉
-- **[Sept 2021]** Worke as Teaching Assistant of the Graduate NLP Course at NYU Courant under [Prof. He He](https://hhexiy.github.io/).
+- **[Sept 2021]** Work as Teaching Assistant of the Graduate NLP Course at NYU Courant under [Prof. He He](https://hhexiy.github.io/).
 - **[Sept 2020]** Join NYU Courant Institute as a master's student.
 - **[Jan 2020]** Launch [LiveSensus](https://livesensus.com/) with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL), supervised by [Prof. Sanjay Patel](https://sjp.ece.illinois.edu/).
   
