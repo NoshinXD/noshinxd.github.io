@@ -14,7 +14,7 @@ My research interest is to develop robust and interpretable machine learning met
 
 <!-- I am always on the lookout for research collaborations that align with my research interests. If you have any potential opportunities or ideas, feel free to contact me via email. -->
 
-<span style="color:red">Note❗: I am looking for Research Intern opportunities in the cycle of 2025 Summer.</span>
+<span style="color:red">I am looking for Research Intern opportunities in the cycle of 2025 Summer.</span>
 
 <!-- A data-driven personal website
 ======
