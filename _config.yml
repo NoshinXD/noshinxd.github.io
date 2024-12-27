@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenqian Ye"
+  name             : "Kazi noshin"
   avatar           : "selfie.jpeg"
   bio              : "CS PhD Student."
   location         : "Charlottesville, VA"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=g0xeSH8AAAAJ"
-  email            : "wenqian@virginia.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=Cw9T0MUAAAAJ&hl=en&authuser=2"
+  email            : "epw9kz@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wenqian-ye"
+  github           : "noshinxd"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/wenqian-yeh/"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "wy2029"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
