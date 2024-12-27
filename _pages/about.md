@@ -59,18 +59,9 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 News
 ------
-- **[Oct 2024]** [MM-SpuBench](https://arxiv.org/abs/2406.17126) is selected as Oral Presentation @ [RBFM Workshop](https://asu-apg.github.io/rbfm/), NeurIPS 2024! 
-- **[July 2024]** One paper is accepted @ ECCV 2024! 
-- **[Jun 2024]** Our survey paper [Spurious Correlations in Machine Learning: A Survey](https://arxiv.org/abs/2402.12715) is released and accepted at [ICML DMLR Workshop](https://dmlr.ai/cfp-icml24/).
-- **[May 2024]** One paper is accepted @ KDD 2024! 
-- **[Apr 2024]** One paper is accepted @ IJCAI 2024! 
-- **[Feb 2024]** Two papers are accepted @ CVPR 2024! 
-- **[Nov 2023]** Co-organize the [1st Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/) @ [WACV 2024](https://wacv2024.thecvf.com/). 
-- **[Aug 2023]** Join UVA SEAS as a PhD student.
-- **[May 2023]** One paper is accepted @ UAI 2023! 
-- **[Sept 2021]** Work as Teaching Assistant of the Graduate NLP Course at NYU Courant under [Prof. He He](https://hhexiy.github.io/).
-- **[Sept 2020]** Join NYU Courant Institute as a master's student.
-- **[Jan 2020]** Launch [LiveSensus](https://livesensus.com/) with other four co-founders, under [Alchemy Technology Foundry](http://alchemyfoundry.com/) at UIUC Coordinated Science Laboratory (CSL), supervised by [Prof. Sanjay Patel](https://sjp.ece.illinois.edu/).
-  
+- **[Dec 2024]** One paper is accepted @ [AIMedHealth](https://sites.google.com/view/aimedhealth-aaai/calls), AAAI Brige Program 2025! 
+- **[Nov 2024]** One paper is accepted @ [AMIA 2025](https://amia.secure-platform.com/summit/#:~:text=%5BSkip%20to%20Content%5D,saving%20progress%20on%20your%20submission.).
+- **[Sept 2024]** One [paper](https://pubmed.ncbi.nlm.nih.gov/39670401/) is accepted @ [PSB 2025](https://psb.stanford.edu/)!
+- **[Jan 2024]** Our [paper]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36](https://ieeexplore.ieee.org/document/10459332)) is accepted @ IEEE Transactions on Geoscience and Remote Sensing 2024!
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Itoj5gX6LtmhsR5PEC5uQkeN08ZyMnSJSe7hPwC0OYg'></script>
