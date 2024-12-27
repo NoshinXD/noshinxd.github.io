@@ -11,9 +11,9 @@ title                    : "Kazi Noshin's Homepage"
 title_separator          : "-"
 name                     : &name "Kazi Noshin"
 description              : &description "personal description"
-url                      : https://wenqian-ye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://noshinxd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wenqian-ye/wenqian-ye.github.io"
+repository               : "noshinxd/noshinxd.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
