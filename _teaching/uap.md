@@ -1,6 +1,6 @@
 ---
 title: "CSCI-GA 2590 Natural Language Processing"
-collection: Lecturer (Full-time)
+collection: teaching
 type: "Undergraduate Course"
 venue: "University of Asia Pacific"
 date: Aug 2022 ‑ June 2023
