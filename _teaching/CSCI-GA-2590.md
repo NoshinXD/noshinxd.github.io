@@ -1,15 +1,18 @@
 ---
 title: "CSCI-GA 2590 Natural Language Processing"
-collection: teaching
-type: "Graduate Course"
-permalink: /teaching/CSCI-GA-2590
-venue: "Courant Institute of Mathematical Sciences, New York University"
-date: 2021-09-01
-location: "New York, NY"
+collection: Lecturer (Full-time)
+type: "Undergraduate Course"
+venue: "University of Asia Pacific"
+date: Aug 2022 ‑ June 2023
+location: "Dhaka, Bangladesh"
 ---
 
-[Course Website](https://nyu-cs2590.github.io/fall2021/)
-
-- Graded the written assignments, exams and final projects. Set up the autograder for code assignments.
-- Answered questions and provide guidelines for students on the online forum CampusWire
-- Held the 1 hour Q \& A section during weekly office hours.
+- Delivering Lectures to make students understand course topics.
+  - Introduction to Computer Science and Programming Methodology Lab (Fall 22, Spring 23)
+  - Structured Programming (C) (Fall 22)
+  - Data Structures (Spring 23)
+  - Software Development (Fall 22, Spring 23)
+- Prepared assignments to enhance the student’s ability to understand computer basics.
+- Graded the written assignments, exams and final projects.
+- Answered questions and provide guidelines for students on google classroom.
+- Held weekly office hours.
