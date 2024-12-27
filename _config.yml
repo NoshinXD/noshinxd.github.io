@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenqian Ye's Homepage"
+title                    : "Kazi Noshin's Homepage"
 title_separator          : "-"
-name                     : &name "Wenqian Ye"
+name                     : &name "Kazi Noshin"
 description              : &description "personal description"
 url                      : https://wenqian-ye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
