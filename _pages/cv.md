@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-[Curriculum Vitae](http://noshinxd.github.io/files/cv.pdf) (*Last update: Jul 2024*)
+[Curriculum Vitae](http://noshinxd.github.io/files/CV_KaziNoshin.pdf) (*Last update: Jul 2024*)
 
 
 
