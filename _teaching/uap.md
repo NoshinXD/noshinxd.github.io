@@ -7,6 +7,7 @@ date: Aug 2022 ‑ June 2023
 location: "Dhaka, Bangladesh"
 ---
 
+- Position: Lecturer (Full-time)
 - Delivering Lectures to make students understand course topics.
   - Introduction to Computer Science and Programming Methodology Lab (Fall 22, Spring 23)
   - Structured Programming (C) (Fall 22)
