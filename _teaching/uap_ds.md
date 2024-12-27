@@ -3,7 +3,7 @@ title: "Data Structures"
 collection: teaching
 type: "Undergraduate Course"
 venue: "University of Asia Pacific"
-date: Spring 23
+date: January 23
 location: "Dhaka, Bangladesh"
 ---
 
