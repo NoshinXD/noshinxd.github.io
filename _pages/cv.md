@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-[Curriculum Vitae](http://wenqian-ye.github.io/files/cv.pdf) (*Last update: Jul 2024*)
+[Curriculum Vitae](http://noshinxd.github.io/files/cv.pdf) (*Last update: Jul 2024*)
 
 
 
@@ -21,12 +21,9 @@ redirect_from:
    -  Major: Computer Science
    - Research Area: Machine Learning
    - Advisors: Prof. [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang)
-- **M.S., New York University**, NY, USA, Aug 2020 - May 2022
-  - Major: Computer Science
-  - Concentration: Machine Learning
-- **B.S., University of Illinois at Urbana-Champaign**, IL, USA, Aug 2017 - May 2020
-  - Major: Mathematics
-  - Minors: (1) Computer Science (2) Electrical Engineering
+- **B.S., Bangladesh University of Engineering and Technology (BUET)**, Dhaka, Bangladesh, Feb 2017 - May 2022
+  - Major: Computer Science and Engineering
+  - CGPA: 3.68/4.00
 
 <!-- Skills
 ======
