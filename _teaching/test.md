@@ -1,5 +1,5 @@
 ---
-title: "CS 6316 Machine Learning"
+title: "CS 6316 Machine Learning - 2"
 collection: teaching
 type: "Graduate Course"
 venue: "University of Virginia"
