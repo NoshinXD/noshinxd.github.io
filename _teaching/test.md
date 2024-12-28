@@ -7,8 +7,6 @@ session: August 2024
 location: "Charlottesville, VA"
 ---
 
-<!-- [Course Website](https://yumeng5.github.io/teaching/2024-fall-cs4501) -->
-
 - Position: Graduate Teaching Assistant
 - Graded assignments and provided feedback.
 - Led weekly office hours and supported students on Piazza.
