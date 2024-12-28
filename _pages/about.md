@@ -62,6 +62,7 @@ News
 - **[Dec 2024]** One paper is accepted @ [AIMedHealth](https://sites.google.com/view/aimedhealth-aaai/calls), AAAI Brige Program 2025! 
 - **[Nov 2024]** One paper is accepted @ [AMIA 2025](https://amia.secure-platform.com/summit/#:~:text=%5BSkip%20to%20Content%5D,saving%20progress%20on%20your%20submission.).
 - **[Sept 2024]** One [paper](https://pubmed.ncbi.nlm.nih.gov/39670401/) is accepted @ [PSB 2025](https://psb.stanford.edu/)!
+- **[May 2024]** Attended [AI-SCORE] (https://ai-score.github.io/) workshop on 'Fairness' and 'Reinforcement Learning'. 
 - **[Jan 2024]** Our [paper]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36](https://ieeexplore.ieee.org/document/10459332)) is accepted @ IEEE Transactions on Geoscience and Remote Sensing 2024!
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Itoj5gX6LtmhsR5PEC5uQkeN08ZyMnSJSe7hPwC0OYg'></script>
