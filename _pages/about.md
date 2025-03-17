@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an MS student in Computer Science at [University of Virginia](https://www.virginia.edu/), advised by [Prof. Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang). Before starting my graduate studies, I worked as a lecturer in the Department of Computer Science and Engineering at [University of Asia Pacific](https://www.uap-bd.edu/), Bangladesh, and as a research assistant in the [BUET-Japan Institute of Disaster Prevention and Urban Safety (BUET-JIDPUS)](https://jidpus.buet.ac.bd/), where I work under the supervision of professor [Dr. Mohammed Eunus Ali](https://sites.google.com/site/mohammedeunusali/). I received a BSc in Computer Science and Engineering from Bangladesh University of Engineering and Technology. In my final year, I did my thesis in the area of Human-Computer Interaction (HCI) under the guidance of Associate Professor [Dr. Mohammad Saifur Rahman](https://scholar.google.com/citations?user=9d52x-cAAAAJ&hl=en). 
-
 My primary research focus lies in Interpretable and Fair machine learning, and deep learning methods, especially the fields concerned with health issues and human behaviour. Currently I am regularly studying various works on Large Language Models.
 
 <!-- My research interest is to develop robust and interpretable machine learning methods. I am eager to persistently improve my understanding in diverse areas of study including but not limited to (1). *AI Alignment*, (2). *Multimodal Learning*, (3). *AI for Healthcare*, (4). *Embodied AI*. -->
